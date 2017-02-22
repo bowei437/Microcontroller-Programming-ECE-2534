@@ -1,0 +1,47 @@
+#######################################
+# Syntax Coloring Map DSPI
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ACL	Keyword1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+end	KEYWORD2
+ReadAccelG	KEYWORD2
+ReadAccel	KEYWORD2
+SetGRange	KEYWORD2
+GetGRange	KEYWORD2
+
+SetMeasure	KEYWORD2
+GetMeasure	KEYWORD2
+SetOffsetG	KEYWORD2
+GetOffsetG	KEYWORD2
+CalibrateOneAxisGravitational	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+PAR_ACCESS_SPI0		LITERAL1
+PAR_ACCESS_SPI1		LITERAL1
+PAR_ACCESS_SPI2		LITERAL1
+PAR_ACCESS_I2C		LITERAL1
+PAR_GRANGE_PM2G		LITERAL1
+PAR_GRANGE_PM4G		LITERAL1
+PAR_GRANGE_PM8G		LITERAL1
+PAR_GRANGE_PM16G	LITERAL1
+PAR_AXIS_XP			LITERAL1
+PAR_AXIS_XN			LITERAL1
+PAR_AXIS_YP			LITERAL1
+PAR_AXIS_YN			LITERAL1
+PAR_AXIS_ZP			LITERAL1
+PAR_AXIS_ZN			LITERAL1
+PAR_AXIS_X			LITERAL1
+PAR_AXIS_Y			LITERAL1
+PAR_AXIS_Z			LITERAL1
