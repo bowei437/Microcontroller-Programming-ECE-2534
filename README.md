@@ -4,6 +4,7 @@ This is the repository for my class at Virginia Tech on Microcontroller Programm
 In this class, we learned the following things:
 * Microcontroller vs Microprocessor
 * Interrupts and priority of tasks
+* UART, I2C, SPI, Serial Interfaces
 * Setting registers to allow/disallow for functionality
 * Pinouts and how to utilize pins on board for analog/digital IO
 * Accelerometer based event triggers to cause subsequent functionality in code
